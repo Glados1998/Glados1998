@@ -4,7 +4,7 @@
 
 #### I am currently learning and honing my skills and also looking a new professional experience as front-end/full-stack dev on-site or remotely.
 
-#### You can contatc me my mail: jerome.greder@icloud.com, my Linkedin profile: https://www.linkedin.com/in/jerome-greder/
+#### You can contact me my mail: jerome.greder@icloud.com, my Linkedin profile: https://www.linkedin.com/in/jerome-greder/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Glados1998)](https://github.com/anuraghazra/github-readme-stats)
 
